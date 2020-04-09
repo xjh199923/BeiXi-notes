@@ -1,4 +1,4 @@
-#SQL 目录
+# SQL 目录
 
 -[Sql 简介](notes/SQL-introduction.md)
 -[Sql 语法](notes/SQL-databaseSyntax.md)
