@@ -1,5 +1,5 @@
-#### [Sql 简介](notes/introduction.md)
-#### [Sql 语法](notes/databaseSyntax.md)
+#### [Sql 简介](notes/SQL-introduction.md)
+#### [Sql 语法](notes/SQL-databaseSyntax.md)
 #### Sql create database
 #### Sql create table
 #### Sql insert into
