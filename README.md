@@ -34,7 +34,7 @@
 
 ## :floppy_disk: 数据库
 
-- [SQL](notes/SQL/SQL.md)
+- [SQL](notes/SQL.md)
 
 ## :coffee: Java
 
