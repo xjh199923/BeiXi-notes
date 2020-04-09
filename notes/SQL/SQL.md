@@ -4,48 +4,44 @@
 
 - [Sql 简介](notes/SQL/SQL-introduction.md)
 - [Sql 语法](notes/SQL/SQL-databaseSyntax.md)
-- Sql create database
-- Sql create table
-- Sql insert into
-- Sql 约束
-- Sql primary key
-- Sql foreign key
-- Sql update
-- Sql delete
-- Sql select
-- Sql select top
-- Sql where
-- Sql and & or
-- Sql like
-- Sql 通配符
-- Sql order by
-- Sql in
-- Sql between
-- Sql 别名
-- Sql 连接（join）
-- Sql inner join
-- Sql left join
-- Sql right join
-- Sql full join
-- Sql union
-- Sql select into
-- Sql insert into select
-- Sql not null
-- Sql unique
-- Sql check
-- Sql default
-- Sql create index
-- Sql drop
-- Sql alter
-- Sql auto increment
-- Sql 视图
-- Sql 日期
-- Sql null值
-- Sql null函数
-- Sql 通用数据类型
-- Sql db数据类型
+- Sql [create database](notes/SQL/Sql-createdatabase.md)
+- Sql [create table](notes/SQL/)
+- Sql [insert into](notes/SQL/)
+- Sql [约束](notes/SQL/)
+- Sql [primary key](notes/SQL/)
+- Sql [foreign key](notes/SQL/)
+- Sql [update](notes/SQL/)
+- Sql [delete](notes/SQL/)
+- Sql [select](notes/SQL/)
+- Sql [select top](notes/SQL/)
+- Sql [where](notes/SQL/)
+- Sql [and & or](notes/SQL/)
+- Sql [like](notes/SQL/)
+- Sql [通配符](notes/SQL/)
+- Sql [order by](notes/SQL/)
+- Sql [in](notes/SQL/)
+- Sql [between](notes/SQL/)
+- Sql [别名](notes/SQL/)
+- Sql [连接（join](notes/SQL/)
+- Sql [inner join](notes/SQL/)
+- Sql [left join](notes/SQL/)
+- Sql [right join](notes/SQL/)
+- Sql [full join](notes/SQL/)
+- Sql [union](notes/SQL/)
+- Sql [select into](notes/SQL/)
+- Sql [insert into select](notes/SQL/)
+- Sql [not null](notes/SQL/)
+- Sql [unique](notes/SQL/)
+- Sql [check](notes/SQL/)
+- Sql [default](notes/SQL/)
+- Sql [create index](notes/SQL/)
+- Sql [drop](notes/SQL/)
+- Sql [alter](notes/SQL/)
+- Sql [auto increment](notes/SQL/)
+- Sql [视图](notes/SQL/)
+- Sql [日期](notes/SQL/)
+- Sql [null值](notes/SQL/)
+- Sql [null函数](notes/SQL/)
+- Sql [通用数据类型](notes/SQL/)
+- Sql [db数据类型](notes/SQL/)
 
-
-
-- 致谢
--  [北徯](http://www.xiangjunhong.com)
