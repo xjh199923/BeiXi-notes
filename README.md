@@ -60,5 +60,5 @@
 ## :memo: 后记
 
 ### 致谢
-- [相逢](http://www.xiangjunhong.com)
+- [北徯](http://www.xiangjunhong.com)
 - [CS-Notes](https://github.com/CyC2018/CS-Notes)
