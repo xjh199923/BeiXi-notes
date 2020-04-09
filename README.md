@@ -1,6 +1,6 @@
-| &nbsp;算法&nbsp; | 操作系统 | &nbsp;网络&nbsp;|面向对象| &nbsp;&nbsp;数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;|        系统设计| &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
-| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
-| [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:floppy_disk:](#floppy_disk-数据库) |[:coffee:](#coffee-java)| [:bulb:](#bulb-系统设计) |[:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践) |[:memo:](#memo-后记)|
+| &nbsp;算法&nbsp; | 操作系统 | &nbsp;网络&nbsp;|面向对象| &nbsp;&nbsp;数据库&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;Java&nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;工具&nbsp;&nbsp;&nbsp; |编码实践| &nbsp;&nbsp;&nbsp;后记&nbsp;&nbsp;&nbsp; |
+| :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: |
+| [:pencil2:](#pencil2-算法) | [:computer:](#computer-操作系统) | [:cloud:](#cloud-网络) | [:art:](#art-面向对象) | [:floppy_disk:](#floppy_disk-数据库) |[:coffee:](#coffee-java)| [:wrench:](#wrench-工具)| [:watermelon:](#watermelon-编码实践) |[:memo:](#memo-后记)|
 
 <br>
 
@@ -35,11 +35,7 @@
 
 ## :floppy_disk: 数据库
 
-- [数据库系统原理](notes/数据库系统原理.md)
 - [SQL](notes/SQL.md)
-- [Leetcode-Database 题解](notes/Leetcode-Database%20题解.md)
-- [MySQL](notes/MySQL.md)
-- [Redis](notes/Redis.md)
 
 ## :coffee: Java
 
@@ -49,14 +45,6 @@
 - [Java 虚拟机](notes/Java%20虚拟机.md)
 - [Java I/O](notes/Java%20IO.md)
 
-## :bulb: 系统设计 
-
-- [系统设计基础](notes/系统设计基础.md)
-- [分布式](notes/分布式.md)
-- [集群](notes/集群.md)
-- [攻击技术](notes/攻击技术.md)
-- [缓存](notes/缓存.md)
-- [消息队列](notes/消息队列.md)
 
 ## :wrench: 工具 
 
