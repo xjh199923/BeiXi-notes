@@ -206,12 +206,15 @@ drop constraint pk_PersonID
 一个表中的 foreign key 指向另一个表中的 unique key(唯一约束的键)。
 让我们通过一个实例来解释外键。请看下面两个表：
 Persons 表：
+
 |  PersonId| Name | Address|  City| 
 |--|--|--|--|
 |1 |小明 |Timoteivn |Sandnes |
 |2 |小红|Timoteivn |Sandnes |
 |3 |小军|Timoteivn |Stavanger |
+
 Orders表：
+
 |OrderId  | OrderNo | PersonId|
 |--|--|--|
 |  1| 77895 |  3 |
@@ -336,7 +339,7 @@ create table Persons
 )
 ```
 
-#### alter table 时的 Sql check 约束
+#### alter table 时的check 约束
 当表已被创建时，如需在 "P_Id" 列创建 check 约束，请使用下面的 SQL：
 ###### MySQL / SQL Server / Oracle / MS Access:
 
