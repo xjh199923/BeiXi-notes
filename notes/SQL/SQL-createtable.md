@@ -35,9 +35,12 @@ City varchar(255)
 Name、Address 和 City 列的数据类型是 varchar，包含字符，且这些字段的最大长度为 255 个字符。
 
 空的 "Persons" 表如下所示：
-|  PersonID| Name | Address|  City| 
+
+|  PersonID| Name | Address| City| 
 |--|--|--|--|
 
 在Sql server创建表如图所示
+
 ![ ](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9pLmxvbGkubmV0LzIwMjAvMDQvMDkvYnlGaDQzWDlvekNmNnZ0LnBuZw?x-oss-process=image/format,png#pic_center)
+
 可使用 insert into 语句向空表写入数据,这个语法我们在后面的教程会讲到。

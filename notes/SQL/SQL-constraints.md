@@ -107,7 +107,7 @@ create table Persons
 alter table Persons
 add unique (PersonID)
 ```
-如需命名 UNIQUE 约束，并定义多个列的 UNIQUE 约束，请使用下面的 SQL 语法：
+如需命名 unique 约束，并定义多个列的 unique 约束，请使用下面的 SQL 语法：
 ###### MySQL / SQL Server / Oracle / MS Access：
 
 ```sql
@@ -115,8 +115,8 @@ alter table Persons
 add constraint uc_PersonID unique (PersonId,Name)
 ```
 
-#### 撤销 UNIQUE 约束
-如需撤销 UNIQUE 约束，请使用下面的 SQL：
+#### 撤销 unique 约束
+如需撤销 unique 约束，请使用下面的 SQL：
 ###### MySQL：
 
 ```sql
