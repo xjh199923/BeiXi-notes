@@ -9,7 +9,7 @@
 - [Sql insert into](notes/SQL/SQL-insertinto.md)
 - [Sql 约束](notes/SQL/SQL-constraints.md)
 - [Sql update](notes/SQL/SQL-update.md)
-- [Sql delete](notes/SQL/SQL-delte.md)
+- [Sql delete](notes/SQL/SQL-delete.md)
 - [Sql select](notes/SQL/)
 - [Sql select top](notes/SQL/)
 - [Sql where](notes/SQL/)
